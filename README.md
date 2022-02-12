@@ -12,7 +12,7 @@
 
 # Talking about Personal Stuffs:
 
-- 👨🏽‍💻 Currently i am working on **Hybrid app development using react/reactnative and data science**
+- 👨🏽‍💻 Currently i am working on **Cross platform app development and data science**
 - 🌱 Learning **Javascript**,  **React**, **Blockchain**
 - 👨‍💻 You can checkout some of my projects here <a href="https://github.com/MuhammadAbdullah-hash">**Github**</a>
 - 📫 Email :: abdullahquddus7@gmail.com
