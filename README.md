@@ -20,8 +20,13 @@
 # Skills:
 
 **Languages**
+1) JavaScript
+2) Python
  
-**Frameworks**
+**Frameworks / Libraries**
+1) ReactJs
+2) ExpressJs
+3) Serverless
 
  # Stats:
  
