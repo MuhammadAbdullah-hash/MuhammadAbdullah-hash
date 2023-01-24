@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tejas1510" alt="Tejas1510" /> </p> 
   
 ## Howdy 👋,           
-#### Abdulah is an engineering student || Alpha Microsoft learn student ambassador || programming enthusiast || open source contributor || Django developer and community worker.
+#### Abdulah is an engineering student || Alpha Microsoft learn student ambassador || programming enthusiast || open source contributor || Backend developer (Nodejs) / DevOps engineer and a community worker.
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />  
 
 # Talking about Personal Stuffs:
 
-- 👨🏽‍💻 Currently i am working on **Cross platform app development and data science**
-- 🌱 Learning **Javascript**,  **React**, **Blockchain**
+- 👨🏽‍💻 Currently i am working on **Scalable architectures and Cloud Infrastructure**
+- 🌱 Learning **Web 3.0**,  **React.js**, **Python**
 - 👨‍💻 You can checkout some of my projects here <a href="https://github.com/MuhammadAbdullah-hash">**Github**</a>
 - 📫 Email :: abdullahquddus7@gmail.com
 
