@@ -13,7 +13,7 @@
 # Talking about Personal Stuffs:
 
 - 👨🏽‍💻 Currently i am working on **Scalable architectures and Cloud Infrastructure**
-- 🌱 Learning **Web 3.0**,  **React.js**, **Python**
+- 🌱 Learning **Web 3.0**,  **Loopback**, **Python**
 - 👨‍💻 You can checkout some of my projects here <a href="https://github.com/MuhammadAbdullah-hash">**Github**</a>
 - 📫 Email :: abdullahquddus7@gmail.com
 
@@ -22,11 +22,13 @@
 **Languages**
 1) JavaScript
 2) Python
+3) TypeScript
  
 **Frameworks / Libraries**
 1) ReactJs
 2) ExpressJs
 3) Serverless
+4) Loopback
 
  # Stats:
  
